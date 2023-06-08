@@ -1,0 +1,16 @@
+{
+  "name": "ray_ecom",
+  "version": "0.0.9",
+  "description": "ecommerce helper by Ray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/ray2ding/ray_ecom.git",
+  "keywords": [
+    "e-commerce"
+  ],
+  "author": "Ray",
+  "license": "ISC",
+  "bin": "./index.js"
+}
